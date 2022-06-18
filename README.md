@@ -1,5 +1,8 @@
 # DesafiosComCpp
-Desafios  de aula em C++ feitos no Dev-C++ | C++ Class Challenges Made in Dev-C++
+Desafios  de aula em C++ feitos no Dev-C++ realizados no curso de Desenvolvimento de Sistema. | C++ Class Challenges Made in Dev-C++
+
+<br>
+
 
 **Desafio 1**
 
